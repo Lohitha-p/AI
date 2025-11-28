@@ -1,0 +1,11 @@
+streamlit
+numpy
+pillow
+requests
+python-dotenv
+groq
+chromadb
+tqdm
+datasets
+torch
+torchvision
